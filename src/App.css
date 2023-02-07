@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+h1, h2 {
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-weight: 700;
+}
+html {
+    background: #333 !important;
+}
+* {
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+.color-white {
+    color: #fff;
+    font-size: 72px;
+}
+.button-A {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100px;
+    /* rotate: 10deg; */
+
+    padding: 15px;
+    border: 5px solid #37363b;
+
+    color: #eee !important;
+
+    width: 24px;
+    height: 24px;
+    background: #323136;
+}
+.button-X {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100px;
+    /* rotate: 10deg; */
+
+    padding: 15px;
+    border: 5px solid #c0c1c5;
+
+    color: #333 !important;
+
+    width: 24px;
+    height: 24px;
+    background: #babbbf;
+}
+.character-menu button {
+    background: transparent;
+}
+.character-menu button:hover {
+    background: gold;
+}
