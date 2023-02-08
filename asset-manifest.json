@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/umk3-combo/static/css/main.be1070df.css",
+    "main.js": "/umk3-combo/static/js/main.c2f9cafb.js",
+    "static/media/bio.png": "/umk3-combo/static/media/bio.97e40f81640ea3d5cb92.png",
+    "index.html": "/umk3-combo/index.html",
+    "main.be1070df.css.map": "/umk3-combo/static/css/main.be1070df.css.map",
+    "main.c2f9cafb.js.map": "/umk3-combo/static/js/main.c2f9cafb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1070df.css",
+    "static/js/main.c2f9cafb.js"
+  ]
+}
