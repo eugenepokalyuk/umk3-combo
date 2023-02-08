@@ -206,8 +206,6 @@ const UltimateMortalKombat3 = () => {
           { "Blade Swipe": "Down, Forward, High Punch" },
           { "Grab and Shake": "Down, Forward, Low Punch" },
           { "Air Throw": "Block in air when next to airborne opponent" },
-          { "(MKT Only) Low Cannon Ball": "Forward, Down, Forward, Low Kick" },
-          { "(MKT Only) High Cannon Ball": "Forward, Down, Forward, High Kick" },
         ],
         "Basic Combos": [
           { "Combo 1": "High Punch, High Punch, Low Punch, Down + High Punch" },
